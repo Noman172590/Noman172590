@@ -3,7 +3,7 @@
 ### MERN Stack Developer | Computer Science Instructor | System Engineer
 
 📍 Dhaka, Bangladesh 🇧🇩  
-📧 [Email Me](mailto:nomanjahan866615@gmail.com)  
+📧 [Email Me](mailto:nomanjahan866615@gmail.com) : nomanjahan866615@gamil.com
 📱 +880 1609 287 549
 
 I'm a software developer and computer science instructor passionate about building efficient, scalable, and user-focused software solutions. My expertise includes full-stack web development, system administration, ERP management, and programming education.
